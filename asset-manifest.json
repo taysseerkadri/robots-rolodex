@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/robots-rolodex/static/css/main.515909dc.chunk.css",
-    "main.js": "/robots-rolodex/static/js/main.5b09d7da.chunk.js",
-    "main.js.map": "/robots-rolodex/static/js/main.5b09d7da.chunk.js.map",
+    "main.js": "/robots-rolodex/static/js/main.f28d30da.chunk.js",
+    "main.js.map": "/robots-rolodex/static/js/main.f28d30da.chunk.js.map",
     "runtime-main.js": "/robots-rolodex/static/js/runtime-main.ce56cfba.js",
     "runtime-main.js.map": "/robots-rolodex/static/js/runtime-main.ce56cfba.js.map",
     "static/js/2.dadca22e.chunk.js": "/robots-rolodex/static/js/2.dadca22e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ce56cfba.js",
     "static/js/2.dadca22e.chunk.js",
     "static/css/main.515909dc.chunk.css",
-    "static/js/main.5b09d7da.chunk.js"
+    "static/js/main.f28d30da.chunk.js"
   ]
 }
